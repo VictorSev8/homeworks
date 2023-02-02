@@ -1,5 +1,5 @@
 package lesson1ObjectsClasses;
-
+//создаем автора
 public class Author {
     private String firstName;
     private String secondName;

@@ -1,5 +1,6 @@
 package lesson1ObjectsClasses;
 
+//создаем книгу
 public class Book {
     private String bookName;
     private Author firstNameSecondName;
