@@ -9,5 +9,6 @@ public class Main {
         Book buratino = new Book("Буратино", alexeyTolstoy, 1935);
         warAndPeace.setPublishingYear(1900);
         System.out.println(warAndPeace.getPublishingYear());
+        System.out.println(warAndPeace.toString());
     }
 }
